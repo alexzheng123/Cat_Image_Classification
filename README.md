@@ -40,7 +40,7 @@ After training the model for 2700 iterations, the following results were obtaine
 ## Example Predictions
 
 Here is an example prediction:
-- ![Example Image](images/test_image.jpg)
+![Example Image](images/test_image.jpg)
 - Model Prediction: **Cat**
 
 ## Acknowledgements
